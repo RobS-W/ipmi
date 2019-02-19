@@ -28,4 +28,4 @@ Performance varies.
 
 [tf_install]: https://www.tensorflow.org/install/
 [conda_install]: https://www.anaconda.com/download/
-[tf_conda]: https://anaconda.org/anaconda/tensorflow
+[tf_conda]: https://www.anaconda.com/tensorflow-in-anaconda/
